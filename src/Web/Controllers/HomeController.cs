@@ -22,6 +22,7 @@ namespace Web.Controllers
 
         public IActionResult IsPrime()
         {
+
             return View();
         }
 
