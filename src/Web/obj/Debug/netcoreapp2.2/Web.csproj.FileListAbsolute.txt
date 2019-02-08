@@ -29,3 +29,4 @@ C:\Users\s531499\Documents\44663\p2\src\Web\obj\Debug\netcoreapp2.2\Web.dll
 C:\Users\s531499\Documents\44663\p2\src\Web\obj\Debug\netcoreapp2.2\Web.pdb
 C:\Users\s531499\Documents\44663\p2\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
 C:\Users\s531499\Documents\44663\p2\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\IsPrime.g.cshtml.cs
+C:\Users\s531499\Documents\44663\p2\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Puppy\Index.g.cshtml.cs
