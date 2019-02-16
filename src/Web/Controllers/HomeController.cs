@@ -17,6 +17,7 @@ namespace Web.Controllers
 
         public IActionResult Privacy()
         {
+            //small change
             return View();
         }
 

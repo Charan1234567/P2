@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\s531499\\Documents\\44663\\p2\\tests\\FunctionalTests\\FunctionalTests.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
