@@ -5852,23 +5852,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\s531499\\.nuget\\packages\\": {},
+    "C:\\Users\\charan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s531499\\Documents\\44663\\p2\\tests\\IntegrationTests\\IntegrationTests.csproj",
+      "projectUniqueName": "c:\\Users\\charan\\Desktop\\44663\\P2\\tests\\IntegrationTests\\IntegrationTests.csproj",
       "projectName": "IntegrationTests",
-      "projectPath": "C:\\Users\\s531499\\Documents\\44663\\p2\\tests\\IntegrationTests\\IntegrationTests.csproj",
-      "packagesPath": "C:\\Users\\s531499\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s531499\\Documents\\44663\\p2\\tests\\IntegrationTests\\obj\\",
+      "projectPath": "c:\\Users\\charan\\Desktop\\44663\\P2\\tests\\IntegrationTests\\IntegrationTests.csproj",
+      "packagesPath": "C:\\Users\\charan\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\charan\\Desktop\\44663\\P2\\tests\\IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\s531499\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\charan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
